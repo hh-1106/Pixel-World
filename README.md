@@ -20,7 +20,7 @@
 * 将项目解压到本地
 * 点击 PixelWorld 里任意 pde 文件启动项目
 * 点击左上角播放键运行
->在编辑器页面显示中文的方法：左上角->File->Preferences->Editorand Console Font (选一个中文字体)
+>在编辑器页面显示中文的方法：左上角->File->Preferences->Editor and Console Font (选一个中文字体)
 ## 操作说明
 
 * 键盘上下方向键控制边缘检测阈值
